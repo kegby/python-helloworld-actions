@@ -1,0 +1,4 @@
+# Ignore Files
+*pycache*
+venv
+*.log
